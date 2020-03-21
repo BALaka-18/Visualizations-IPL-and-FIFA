@@ -24,10 +24,10 @@ To view in Jupyter Notebook :
 
 4. Open a new notebook in Jupyter.
 
-5. Select a cell, choose Markdown.
+5. Select a cell, write %%HTML (this tells Jupyter that the upcoming code is HTML). Hit Enter.
 
-6. Paste the code you previously copied.
+6. Paste the embed you previously copied.
 
-7. Run the cell (Shift + Enter)
+7. Run the cell (DON'T use Shift + Enter.)
 
 8. The visualizations will automatically show.
